@@ -1,4 +1,4 @@
-## Hi there 👋 ([Bonjour](#frh) 👋) {#enh}
+## Hi there 👋 (français plus bas)
 
 I'm Seraf, an avid technologist and ex full-stack web developer & IT consultant. I'm now retired (actually I'm invalidated by a disease).
 
@@ -56,7 +56,7 @@ Developing Tools & Strategies for the Common Business
 
 ---
 
-## Bonjour 👋 ([Hi there 👋](#enh)) {#frh}
+## Bonjour 👋 (English above)
 
 Mon nom est Seraf et je suis un avide technologiste en matière informatique. Je suis aussi un ex developpeur web (full-stack) / consultant en Ti. Je suis à la retraite.
 
