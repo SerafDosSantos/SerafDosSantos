@@ -1,4 +1,6 @@
-## Hi there 👋 (français plus bas)
+# Hi there 👋 <a name="hi-there"></a>
+
+[voir français](#bonjour)
 
 I'm Seraf, an avid technologist and ex full-stack web developer & IT consultant. I'm now retired (actually I'm invalidated by a disease).
 
@@ -12,6 +14,15 @@ Here's some ineresting projects I'm working on lately:
 ---
 
 # Curriculum Vitae
+
+```
+❗Please Note:
+
+  * I'm retired since 2012 due to illness
+  * I'm an avid reader, so I've kept my brain sharp in IT
+  * I code sometimes, slowly, but shurely
+  * I can't do some things anymore like like I used to in IT
+```
 
 ### Skills
 
@@ -56,7 +67,9 @@ Developing Tools & Strategies for the Common Business
 
 ---
 
-## Bonjour 👋 (English above)
+# Bonjour 👋 <a name="bonjour"></a>
+
+[see English](#hi-there)
 
 Mon nom est Seraf et je suis un avide technologiste en matière informatique. Je suis aussi un ex developpeur web (full-stack) / consultant en Ti. Je suis à la retraite.
 
@@ -68,6 +81,15 @@ Voici quelques-uns de mes projets :
 * [Un site de jeux de Tarot et d'Oracles](https://github.com/astrotarot-ca/astrotarot-ca)
 
 # Curriculum Vitae
+
+```
+❗Prenez note:
+
+  * Je suis à la retraite depuis 2012 dû à un problème de santé
+  * Je suis un lecteur quotidien, donc j'ai gardé mon cervelet environ à jour en TI
+  * Je code des fois, lentement, mais sûrement
+  * Je ne peux plus faire ce que les gens en TI font habituellement
+```
 
 ### Talents
 
