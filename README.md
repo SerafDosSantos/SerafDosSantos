@@ -21,7 +21,7 @@ Here's some ineresting projects I'm working on lately:
   * I'm retired since 2012 due to illness
   * I'm an avid reader, so I've kept my brain sharp in IT
   * I code sometimes, slowly, but shurely
-  * I can't do some things anymore like like I used to in IT
+  * I can't do some things anymore like I used to in IT
 ```
 
 ### Skills
