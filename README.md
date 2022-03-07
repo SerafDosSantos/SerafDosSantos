@@ -6,10 +6,11 @@ I'm Seraf, an avid technologist and ex full-stack web developer & IT consultant.
 
 Here's some ineresting projects I'm working on lately:
 
-* The Mastering Bitcoin 2nd Open Edition book translation to French (Canada) 👉 [bitcoin.maitriser.ca](https://bitcoin.maitriser.ca/)
-* [The Mastering Ethereum Open Edition book translation to French (Canada)](https://github.com/ethereumbook/ethereumbook)
-* [Some Jupyter Notebooks with references to blockchain technologies](https://github.com/SerafDosSantos/MesBlocNotes)
-* [A Tarot & Oracle gaming website](https://github.com/astrotarot-ca/astrotarot-ca)
+* The Mastering Bitcoin 2nd Open Edition book translation to French (Canada)
+  * 👉 [bitcoin.maitriser.ca](https://bitcoin.maitriser.ca/)
+* The Mastering Ethereum Open Edition book translation to French (Canada)
+* Some Jupyter Notebooks with references to blockchain technologies
+* A Tarot & Oracle gaming website
 
 ---
 
@@ -75,10 +76,11 @@ Mon nom est Seraf et je suis un avide technologiste en matière informatique. Je
 
 Voici quelques-uns de mes projets :
 
-* Traduction du livre à édition ouverte _Mastering Bitcoin_ 2ième édition en canadien français 👉 [bitcoin.maitriser.ca](https://bitcoin.maitriser.ca/)
-* [Traduction du livre à édition ouverte _Mastering Ethereum_ en canadien français](https://github.com/ethereumbook/ethereumbook)
-* [Quelques blocnotes Jupyter avec sur le sujet des technologies à chaîne de blocs](https://github.com/SerafDosSantos/MesBlocNotes)
-* [Un site de jeux de Tarot et d'Oracles](https://github.com/astrotarot-ca/astrotarot-ca)
+* Traduction du livre à édition ouverte _Mastering Bitcoin_ 2ième édition en canadien français 
+  * 👉 [bitcoin.maitriser.ca](https://bitcoin.maitriser.ca/)
+* Traduction du livre à édition ouverte _Mastering Ethereum_ en canadien français
+* Quelques blocnotes Jupyter avec sur le sujet des technologies à chaîne de blocs
+* Un site de jeux de Tarot et d'Oracles
 
 # Curriculum Vitae
 
