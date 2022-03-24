@@ -79,7 +79,7 @@ Voici quelques-uns de mes projets :
 * Traduction du livre à édition ouverte _Mastering Bitcoin_ 2ième édition en canadien français 
   * 👉 [bitcoin.maitriser.ca](https://bitcoin.maitriser.ca/)
 * Traduction du livre à édition ouverte _Mastering Ethereum_ en canadien français
-* Quelques blocnotes Jupyter avec sur le sujet des technologies à chaîne de blocs
+* Quelques blocnotes Jupyter sur le sujet des technologies de chaîne de blocs
 * Un site de jeux de Tarot et d'Oracles
 
 # Curriculum Vitae
