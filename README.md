@@ -110,7 +110,7 @@ Français, Anglais, Portugais
 * 2009-2011 Travailleur autonome, Consultant en TI
 * 2008 TwistImage Multimédia Inc., Programmeur logiciel
 * 2004-2008 Barsalou Lawson S.E.N.C., Technicien en TI
-* 2002-2003 Ruby Stein Wagner S.E.N.C., Commis à la document 
+* 2002-2003 Ruby Stein Wagner S.E.N.C., Commis à la documentation
 * 2001-2002 MIO Planète Inc., Analyste logiciel
 * 2001 Office National du Canada, Programmeur analyste
 * 1996-1999 Omer Deserres Inc., Gestionnaire de petit entrepôt 
