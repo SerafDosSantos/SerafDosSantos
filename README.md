@@ -2,15 +2,16 @@
 
 [voir français](#bonjour)
 
-I'm Seraf, an avid technologist and ex full-stack web developer & IT consultant. I'm now retired (actually I'm invalidated by a disease).
+I'm Seraf, an avid technologist and a full-stack web developer & IT consultant.
 
 Here's some interesting projects I'm working on lately:
 
+* ChatGepeto - An LLM Playground Plus
+  * 👉 [GitHub](https://github.com/Cyb3rStudio/ChatGepeto) :: [chatgepeto.app](https://chatgepeto.app)
 * The Mastering Bitcoin 2nd Open Edition book translation to French (Canada)
   * 👉 [bitcoin.maitriser.ca](https://bitcoin.maitriser.ca/)
 * The Mastering Ethereum Open Edition book translation to French (Canada)
   * 👉 [ethereum.maitriser.ca](https://ethereum.maitriser.ca/)
-* Some Jupyter Notebooks with references to blockchain technologies
 * A Tarot & Oracle gaming website
 
 ---
@@ -20,15 +21,12 @@ Here's some interesting projects I'm working on lately:
 ```
 ❗Please Note:
 
-  * I'm retired since 2012 due to illness
-  * I'm an avid reader, so I've kept my brain sharp in IT
-  * I code sometimes, slowly, but shurely
-  * I can't do some things anymore like I used to in IT
+  * I'm gradually returning to work after a period of illness.
 ```
 
 ### Skills
 
-Web 2.0 & 3.0 Operations, Multimedia, Office Solutions
+Full-Stack Web 2.0 & Web 3.0 Operations, Multimedia, Office Solutions
 
 ### Industry Expertise
 
@@ -40,7 +38,8 @@ French, English & Portuguese
 
 ### Experiences
 
-* 2009-2011 Self-Employed, IT Consultant
+* 2022-2023 Self-Employed Remote Office Assistant, IT Assistance
+* 2009-2011 Self-Employed IT Consultant
 * 2008 TwistImage Multimédia Inc., Software Programmer
 * 2004-2008 Barsalou Lawson S.E.N.C., IT Technician
 * 2002-2003 Ruby Stein Wagner S.E.N.C., Document Clerk
@@ -64,6 +63,7 @@ Developing Tools & Strategies for the Common Business
 
 ### Exploits
 
+* Translation of 2 books published by O'Reilly in French (Canada) on the Web 3.0 blockchain subject
 * IT Technician for the first paperless (electronic) trial of justice in Canada
 * _Conception, Development, Operation & Administration_ of a complete small business (Intranet & E-Commerce)
 
@@ -73,10 +73,12 @@ Developing Tools & Strategies for the Common Business
 
 [see English](#hi-there)
 
-Mon nom est Seraf et je suis un avide technologiste en matière informatique. Je suis aussi un ex developpeur web (full-stack) / consultant en Ti. Je suis à la retraite.
+Mon nom est Seraf et je suis un avide technologiste en matière informatique.
 
 Voici quelques-uns de mes projets :
 
+* ChatGepeto - Un environnement supérieur pour LLMs
+  * 👉 [GitHub](https://github.com/Cyb3rStudio/ChatGepeto) :: [chatgepeto.app](https://chatgepeto.app)
 * Traduction du livre à édition ouverte _Mastering Bitcoin_ 2ième édition en canadien français 
   * 👉 [bitcoin.maitriser.ca](https://bitcoin.maitriser.ca/)
 * Traduction du livre à édition ouverte _Mastering Ethereum_ en canadien français
@@ -89,15 +91,13 @@ Voici quelques-uns de mes projets :
 ```
 ❗Prenez note:
 
-  * Je suis à la retraite depuis 2012 dû à un problème de santé
+  * Je suis de retour sur le marché du travail après un arrêt dû à un problème de santé
   * Je suis un lecteur quotidien, donc j'ai gardé mon cervelet environ à jour en TI
-  * Je code des fois, lentement, mais sûrement
-  * Je ne peux plus faire ce que les gens en TI font habituellement
 ```
 
 ### Talents
 
-Opérations web 2.0 & 3.0, Multimédias, Solutions informatiques
+Full-Stack développeur Web 2.0 & Opérations Web 3.0, Multimédias, Solutions informatiques
 
 ### Expertises
 
@@ -109,6 +109,7 @@ Français, Anglais, Portugais
 
 ### Expériences
 
+* 2022-2023 Travailleur autonome, Assistance bureautique à distance, Assistance TI
 * 2009-2011 Travailleur autonome, Consultant en TI
 * 2008 TwistImage Multimédia Inc., Programmeur logiciel
 * 2004-2008 Barsalou Lawson S.E.N.C., Technicien en TI
@@ -133,24 +134,10 @@ Développer des outils et des stratégies opérationnelles pour l’entreprise
 
 ### Exploits
 
+* Traduction en français (Canada) de 2 livres publiés par O'Reilly sur les chaînes de blocs et la Web 3.0
 * Technicien de support pour le premier procès électronique au Canada
 * Conception, développement, opérations et administration d’un système commercial d’affaire complet (intranet et commerce électronique)
 
 ---
 
-Serafim Dos Santos &mdash; Montréal, Québec, Canada &mdash; info @ seraf.me
-
-<!--
-**SerafDosSantos/SerafDosSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Serafim Dos Santos &mdash; Montréal, Québec, Canada &mdash; seraf@cyb3r.ca
