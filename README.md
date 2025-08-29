@@ -2,18 +2,17 @@
 
 [voir français](#bonjour)
 
-I'm Seraf, an avid technologist and a full-stack web developer & IT consultant.
+I'm Seraf, an avid technologist and a full-stack web developer & consultant.
 
 Here's some interesting projects I'm working on lately:
 
-* ChatGepeto - An LLM Playground Plus
-  * 👉 [GitHub](https://github.com/Cyb3rStudio/ChatGepeto) :: [chatgepeto.app](https://chatgepeto.app)
 * The Mastering Bitcoin 2nd Open Edition book translation to French (Canada)
   * 👉 [bitcoin.maitriser.ca](https://bitcoin.maitriser.ca/)
 * The Mastering Ethereum Open Edition book translation to French (Canada)
   * 👉 [ethereum.maitriser.ca](https://ethereum.maitriser.ca/)
 * A Tarot & Oracle gaming website
-
+  * 👉 [astrotarot.ca](https://www/astrotarot.ca/)
+ 
 ---
 
 # Curriculum Vitae
@@ -26,7 +25,7 @@ Here's some interesting projects I'm working on lately:
 
 ### Skills
 
-Full-Stack Web 2.0 & Web 3.0 Operations, Multimedia, Office Solutions
+Full-Stack Web 2.0, Web 3.0 Operations, ML & AI, Multimedia, Office Solutions
 
 ### Industry Expertise
 
@@ -34,12 +33,12 @@ Advertising, Legal, Retail & Technology
 
 ### Languages
 
-French, English & Portuguese
+French, English, Portuguese, Spanish
 
 ### Experiences
 
-* 2022-2023 Self-Employed Remote Office Assistant, IT Assistance
-* 2009-2011 Self-Employed IT Consultant
+* 2022-2025 Self-Employed, Remote Office Assistant
+* 2009-2011 Self-Employed, IT Consultant
 * 2008 TwistImage Multimédia Inc., Software Programmer
 * 2004-2008 Barsalou Lawson S.E.N.C., IT Technician
 * 2002-2003 Ruby Stein Wagner S.E.N.C., Document Clerk
@@ -64,7 +63,7 @@ Developing Tools & Strategies for the Common Business
 ### Exploits
 
 * Translation of 2 books published by O'Reilly in French (Canada) on the Web 3.0 blockchain subject
-* IT Technician for the first paperless (electronic) trial of justice in Canada
+* IT Technician for the first paperless (electronic) trial for Tax Court of Canada
 * _Conception, Development, Operation & Administration_ of a complete small business (Intranet & E-Commerce)
 
 ---
@@ -77,27 +76,24 @@ Mon nom est Seraf et je suis un avide technologiste en matière informatique.
 
 Voici quelques-uns de mes projets :
 
-* ChatGepeto - Un environnement supérieur pour LLMs
-  * 👉 [GitHub](https://github.com/Cyb3rStudio/ChatGepeto) :: [chatgepeto.app](https://chatgepeto.app)
 * Traduction du livre à édition ouverte _Mastering Bitcoin_ 2ième édition en canadien français 
   * 👉 [bitcoin.maitriser.ca](https://bitcoin.maitriser.ca/)
 * Traduction du livre à édition ouverte _Mastering Ethereum_ en canadien français
   * 👉 [ethereum.maitriser.ca](https://ethereum.maitriser.ca/)
-* Quelques blocnotes Jupyter sur le sujet des technologies de chaîne de blocs
 * Un site de jeux de Tarot et d'Oracles
+  * 👉 [astrotarot.ca](https://www.astrotarot.ca/) 
 
 # Curriculum Vitae
 
 ```
 ❗Prenez note:
 
-  * Je suis de retour sur le marché du travail après un arrêt dû à un problème de santé
-  * Je suis un lecteur quotidien, donc j'ai gardé mon cervelet environ à jour en TI
+  * Je fais un retour progressif sur le marché du travail après un arrêt dû à un problème de santé
 ```
 
 ### Talents
 
-Full-Stack développeur Web 2.0 & Opérations Web 3.0, Multimédias, Solutions informatiques
+Full-Stack développeur Web 2.0, Opérations Web 3.0, AM & IA, Multimédias, Solutions informatiques
 
 ### Expertises
 
@@ -105,11 +101,11 @@ Marketing, Légal, Détail et Technologie
 
 ### Langages
 
-Français, Anglais, Portugais
+Français, Anglais, Portugais, Espagnol
 
 ### Expériences
 
-* 2022-2023 Travailleur autonome, Assistance bureautique à distance, Assistance TI
+* 2022-2025 Travailleur autonome, Assistant Virtuel pour PMEs
 * 2009-2011 Travailleur autonome, Consultant en TI
 * 2008 TwistImage Multimédia Inc., Programmeur logiciel
 * 2004-2008 Barsalou Lawson S.E.N.C., Technicien en TI
@@ -135,7 +131,7 @@ Développer des outils et des stratégies opérationnelles pour l’entreprise
 ### Exploits
 
 * Traduction en français (Canada) de 2 livres publiés par O'Reilly sur les chaînes de blocs et la Web 3.0
-* Technicien de support pour le premier procès électronique au Canada
+* Technicien de support pour le premier procès électronique de la Cour canadienne de l'impôt
 * Conception, développement, opérations et administration d’un système commercial d’affaire complet (intranet et commerce électronique)
 
 ---
