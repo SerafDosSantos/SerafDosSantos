@@ -19,12 +19,6 @@ Here's some interesting projects I'm working on lately:
 
 # Curriculum Vitae
 
-```
-❗Please Note:
-
-  * I'm gradually returning to work after a period of illness.
-```
-
 ### Skills
 
 Full-Stack Web 2.0, Web 3.0 Operations, ML & AI, Multimedia, Office Solutions
@@ -88,12 +82,6 @@ Voici quelques-uns de mes projets :
   * 👉 [oozyjoy.org](https://www.oozyjoy.org/)
 
 # Curriculum Vitae
-
-```
-❗Prenez note:
-
-  * Je fais un retour progressif sur le marché du travail après un arrêt dû à un problème de santé
-```
 
 ### Talents
 
