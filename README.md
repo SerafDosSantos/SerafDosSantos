@@ -12,6 +12,8 @@ Here's some interesting projects I'm working on lately:
   * 👉 [ethereum.maitriser.ca](https://ethereum.maitriser.ca/)
 * A Tarot & Oracle gaming website
   * 👉 [astrotarot.ca](https://www/astrotarot.ca/)
+* An Erotic Guidebok for OozyJoy: The Erotic Bedtop Game
+  * 👉 [oozyjoy.org](https://www.oozyjoy.org/)
  
 ---
 
@@ -81,7 +83,9 @@ Voici quelques-uns de mes projets :
 * Traduction du livre à édition ouverte _Mastering Ethereum_ en canadien français
   * 👉 [ethereum.maitriser.ca](https://ethereum.maitriser.ca/)
 * Un site de jeux de Tarot et d'Oracles
-  * 👉 [astrotarot.ca](https://www.astrotarot.ca/) 
+  * 👉 [astrotarot.ca](https://www.astrotarot.ca/)
+* Un guide pour le jeu érotique OozyJoy
+  * 👉 [oozyjoy.org](https://www.oozyjoy.org/)
 
 # Curriculum Vitae
 
