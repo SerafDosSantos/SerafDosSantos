@@ -81,6 +81,8 @@ Developing Tools & Strategies for the Common Business
 
 Mon nom est Seraf et je suis un avide technologiste en matière informatique.
 
+> Je vibe-code de nos jours...
+
 Voici quelques-uns de mes projets :
 
 * __Maîtriser Bitcoin__ : Traduction du livre à édition ouverte _Mastering Bitcoin_ 2ième édition en canadien français
