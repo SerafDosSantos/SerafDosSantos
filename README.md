@@ -4,17 +4,28 @@
 
 I'm Seraf, an avid technologist and a full-stack web developer & consultant.
 
-Here's some interesting projects I'm working on lately:
+> I vibecode nowadays...
 
-* The Mastering Bitcoin 2nd Open Edition book translation to French (Canada)
+Here's some interesting projects I've been working on lately:
+
+* Book translation __Maîtriser Bitcoin__ of Mastering Bitcoin, 2nd Open Edition to French (Canada)
   * 👉 [bitcoin.maitriser.ca](https://bitcoin.maitriser.ca/)
-* The Mastering Ethereum Open Edition book translation to French (Canada)
+* Book translation __Maîtriser Ethereum__ of Mastering Ethereum, 1st Open Edition to French (Canada)
   * 👉 [ethereum.maitriser.ca](https://ethereum.maitriser.ca/)
-* A Tarot & Oracle gaming website
-  * 👉 [astrotarot.ca](https://www/astrotarot.ca/)
-* An Erotic Guidebok for OozyJoy: The Erotic Bedtop Game
+* __AstroTarot.ca__ : A Tarot & Oracle gaming webapp
+  * 👉 [astrotarot.ca](https://astrotarot.ca/)
+* __AstroTarot.studio__ : A Tarot & Astrology study webapp
+  * 👉 [astrotarot.studio](https://astrotarot.studio/)
+* __OozyJoy.org__ : An Erotic Guidebok for _"OozyJoy: The Erotic Bedtop Game"_
   * 👉 [oozyjoy.org](https://www.oozyjoy.org/)
- 
+
+And more...
+
+* __PriceComp__ : A tool to compare used item prices and generate a selling text for social media posts
+* __PackCalc__ : An AI tool to calculate volume box packing for shipping
+* __Squarish__ : A pixel mapper for DIY paint-by-number pixel paintings
+* __AgentUML__ : An AI chatbot for Mermaid & PlantUML diagramming
+
 ---
 
 # Curriculum Vitae
