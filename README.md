@@ -83,14 +83,23 @@ Mon nom est Seraf et je suis un avide technologiste en matière informatique.
 
 Voici quelques-uns de mes projets :
 
-* Traduction du livre à édition ouverte _Mastering Bitcoin_ 2ième édition en canadien français 
+* __Maîtriser Bitcoin__ : Traduction du livre à édition ouverte _Mastering Bitcoin_ 2ième édition en canadien français
   * 👉 [bitcoin.maitriser.ca](https://bitcoin.maitriser.ca/)
-* Traduction du livre à édition ouverte _Mastering Ethereum_ en canadien français
+* __Maîtriser Ethereum__ : Traduction du livre à édition ouverte _Mastering Ethereum_ en canadien français
   * 👉 [ethereum.maitriser.ca](https://ethereum.maitriser.ca/)
-* Un site de jeux de Tarot et d'Oracles
+* __Webapp AstroTarot__ : Un site de jeux de Tarot et d'Oracles
   * 👉 [astrotarot.ca](https://www.astrotarot.ca/)
-* Un guide pour le jeu érotique OozyJoy
+* __Webapp AstroTarot Studio__ : Un site d'étude de Tarot et d'Astrologie
+  * 👉 [astrotarot.studio](https://www.astrotarot.studio/)
+* __OozyJoy.org__ : Un guide pour le jeu érotique OozyJoy
   * 👉 [oozyjoy.org](https://www.oozyjoy.org/)
+
+Et plus encore...
+
+* __PriceComp__ : Un outil pour comparer les prix d'objets usagés et générer un texte de vente pour les publications sur les réseaux sociaux
+* __PackCalc__ : Un outil d'IA pour calculer le volume de colis pour l'expédition
+* __Squarish__ : Un outil pour mapper des pixels pour la peinture par numéros
+* __AgentUML__ : Un chatbot d'IA pour la création de diagrammes Mermaid & PlantUML
 
 # Curriculum Vitae
 
@@ -115,7 +124,7 @@ Français, Anglais, Portugais, Espagnol
 * 2002-2003 Ruby Stein Wagner S.E.N.C., Commis à la documentation
 * 2001-2002 MIO Planète Inc., Analyste logiciel
 * 2001 Office National du Canada, Programmeur analyste
-* 1996-1999 Omer Deserres Inc., Gestionnaire de petit entrepôt 
+* 1996-1999 Omer Deserres Inc., Gestionnaire de petit entrepôt
 * 1993-1995 Centre Rockland, Gardien de sécurité, Maintenance
 
 ### Éducation
