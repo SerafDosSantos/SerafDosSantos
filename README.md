@@ -81,7 +81,7 @@ Developing Tools & Strategies for the Common Business
 
 Mon nom est Seraf et je suis un avide technologiste en matière informatique.
 
-> Je vibe-code de nos jours...
+> Je "vibecode" ces jours-ci...
 
 Voici quelques-uns de mes projets :
 
