@@ -131,7 +131,7 @@ Français, Anglais, Portugais, Espagnol
 
 ### Éducation
 
-* 2005-2007 Sciences informatiques, Université du Québec à Montréal
+* 2005-2007 Informatique, Université du Québec à Montréal
 * 2000-2001 Multimédia, Développement Web et Bases de données, Institut supérieur d’informatique de Montréal
 
 ### Intérêts
